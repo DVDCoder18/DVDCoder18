@@ -2,7 +2,6 @@
 
 # About Me
 - 😃 I'm currently a student in software developpment, arguably one of the best jobs in the world😎
-- 🖥️ My tech stack basically covers some of the 
 
 # GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
