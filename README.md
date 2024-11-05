@@ -9,19 +9,20 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=DVDCoder18&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          src="https://github-readme-stats.vercel.app/api?username=DvdCoder18&show_icons=true&locale=en&theme=tokyonight&count_private=true"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
-          src="https://streak-stats.demolab.com/?user=DVDCoder18&theme=tokyonight"
+          src="https://streak-stats.demolab.com/?user=DvdCoder18&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
     </tr>
   </thead>
 </table>
+
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dragin-83572b2a3/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@dvdcoder18)
