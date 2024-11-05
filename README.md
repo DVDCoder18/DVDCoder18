@@ -9,13 +9,13 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=DvdCoder18&show_icons=true&locale=en&theme=tokyonight&count_private=true"
+          src="https://github-readme-stats.vercel.app/api?username=DVDCoder18&show_icons=true&locale=en&theme=tokyonight&count_private=true"
           alt="GitHub Stats"
         />
       </td>
       <td>
         <img
-          src="https://streak-stats.demolab.com/?user=DvdCoder18&theme=tokyonight"
+          src="https://streak-stats.demolab.com/?user=DVDCoder18&theme=tokyonight"
           alt="GitHub Stats"
         />
       </td>
