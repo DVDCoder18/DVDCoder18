@@ -28,4 +28,6 @@ I've been learning to code for about three years now. It all started with Python
 
 <a href="http://www.github.com/DVDCoder18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DVDCoder18&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/DVDCoder18"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DVDCoder18&bg_color=171717&color=ffffff&line=facc15&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/DVDCoder18">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DVDCoder18&bg_color=171717&color=ffffff&line=facc15&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
